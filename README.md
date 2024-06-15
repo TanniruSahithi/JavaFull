@@ -1,2 +1,2 @@
-# JavaFullStack
+# Java
 DailyAssignments
